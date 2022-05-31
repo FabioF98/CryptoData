@@ -10,6 +10,24 @@
   </p>
 
 ## Introduction
-This exploratory data analysis was created as a capstone project for the Data Analysis and Visualization section of the Data Science course of Start2Impact, an italian startup (B Corp certified) which has been selected among the best ones in Europe in terms of education and social impact by the European Social Innovation Competition.
+This python script was created as a project for the Blockchain section of the Data Science course of Start2Impact, an italian startup (B Corp certified) which has been selected among the best ones in Europe in terms of education and social impact by the European Social Innovation Competition.
 
-The analysis is already structured as a notebook which contains a formal presentation of the themes, the datasets and every information needed in order to understand what was done during the six different phases of the analysis. This section, on the other hand, will be an informal and brief explanation of why I chose this theme.
+The main goal of this project was to create an automated reported that each day at a specific time, defined by the user, would retrieve information about cryptocurrencies. In particular the script must compute the following : 
+1. The cryptocurrency with the largest volume (in $) of the last 24 hours.
+2. The top and worst 10 cryptocurrencies (based on percentage increase in the last 24 hours).
+3. The amount needed (in $) to buy one unit of the best 20 cryptocurrencies[^1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]Best 20 according to the ranking of CoinMarketCap, therefore sorted by capitalization
