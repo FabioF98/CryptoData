@@ -1,5 +1,13 @@
 # CryptoData
-Python script to retrieve cryptocurrencies info
+
+<p align = "center">
+  <img
+       width = "500"
+       height = "300"
+       src = "./crypto.jpeg"
+       
+  >
+  </p>
 
 ## Introduction
 This exploratory data analysis was created as a capstone project for the Data Analysis and Visualization section of the Data Science course of Start2Impact, an italian startup (B Corp certified) which has been selected among the best ones in Europe in terms of education and social impact by the European Social Innovation Competition.
