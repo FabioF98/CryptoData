@@ -1,4 +1,4 @@
-# CryptoData
+# Cryptocurrencies reporting system
 
 <p align = "center">
   <img
