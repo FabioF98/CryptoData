@@ -4,7 +4,7 @@
   <img
        width = "500"
        height = "300"
-       src = "./crypto.jpeg"
+       src = "./crypto.jpg"
        
   >
   </p>
