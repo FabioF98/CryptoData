@@ -1,4 +1,4 @@
-# Cryptocurrencies reporting system
+# Cryptocurrencies Reporting System
 
 <p align = "center">
   <img
