@@ -2,7 +2,7 @@
 
 <p align = "center">
   <img
-       width = "800"
+       width = "500"
        height = "300"
        src = "./crypto.jpeg"
        
